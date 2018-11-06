@@ -1,0 +1,1 @@
+print("Discordbot voor noobs")
